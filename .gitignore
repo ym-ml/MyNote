@@ -1,4 +1,4 @@
 .obsidian/*
 !.obsidian/snippets/
 !.obsidian/snippets/**
-
+.trash/
