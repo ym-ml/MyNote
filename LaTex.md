@@ -11,3 +11,5 @@ P(x_5)
 
 加上公式结尾加上序号 \tag{1}
 
+映射: \mapsto 
+$\mathbb R$:\mathbb 
