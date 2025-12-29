@@ -13,3 +13,12 @@ P(x_5)
 
 映射: \mapsto 
 $\mathbb R$:\mathbb 
+
+$\mathbf x$: \mathbf x
+$\boldsymbol x$ :\boldsymbol x
+$\mathcal X$: \mathcal X      $\mathcal L$:\mathcal L
+
+
+
+逻辑
+$\land$  $\lnot$  $\lor$    \land   lnot  lor
