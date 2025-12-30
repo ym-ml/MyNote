@@ -5,6 +5,7 @@
 	git branch -u [origin/master] 更改上游
 2.
 	git push和git pull默认行为不同,git push gitee可以实现,但是git pull gitee不对,必须加上master,即git pull gitee master
+
 3.不小心上传了'垃圾'文件到仓库:
 
 *下文是从历史中彻底删除:
@@ -19,3 +20,19 @@
 	5. 清理本地Git缓存
 		git reflog expire --expire=now --all
 		git gc --prune=now
+
+
+4.强制恢复到远程仓库的状态:
+先暂存任何未提交的修改
+git stash
+
+git fetch origin 获取origin
+强制重置到 origin 的最新状态
+git reset --hard origin/master
+
+恢复暂存的修改（如果有）
+git stash pop
+
+5.
+强制推送:
+git push gitee master --force
