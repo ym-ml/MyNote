@@ -1,3 +1,4 @@
+1. 
 08048bc6 <phase_1>:
  8048bc6:	55                   	push   %ebp
  8048bc7:	89 e5                	mov    %esp,%ebp
@@ -11,3 +12,14 @@
  8048be0:	e8 13 07 00 00       	call   80492f8 <explode_bomb>
  8048be5:	c9                   	leave  
  8048be6:	c3                   	ret
+
+2. gdb   
+   after use layout asm :
+	ctrl+L clean the screen
+	ctrl+X &o  determine to command which window (default is the asm)
+	*and then use ctrl+p for the last command  
+	ctrl+F/B for cursor :front or Behind*
+   d :delete all the breakpoints    /    can alse chose one
+3. cmp a ,b
+   jg ....   if b>a ,then jump
+   ==计算的是b-a,所以都是b相对于a的关系==
