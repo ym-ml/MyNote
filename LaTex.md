@@ -32,3 +32,5 @@ $\land$  $\lnot$  $\lor$    \land   lnot  lor
 
 
 `\; \; `可以实现空格 $x \, y \; z$ 
+
+\bar{} :  $\bar x$
