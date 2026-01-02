@@ -8,4 +8,4 @@ The note is from Chapter 10 to Chapter 16.
 
 
 
-*In Praise of Open Source. *
+*In Praise of Open Source.*
