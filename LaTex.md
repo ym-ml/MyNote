@@ -34,3 +34,20 @@ $\land$  $\lnot$  $\lor$    \land   lnot  lor
 `\; \; `可以实现空格 $x \, y \; z$ 
 
 \bar{} :  $\bar x$
+
+### **小写希腊字母**
+
+| 字母  | LaTeX 命令                   | 字母  | LaTeX 命令               |
+| --- | -------------------------- | --- | ---------------------- |
+| α   | `\alpha`                   | β   | `\beta`                |
+| γ   | `\gamma`                   | δ   | `\delta`               |
+| ε   | `\epsilon` / `\varepsilon` | ζ   | `\zeta`                |
+| η   | `\eta`                     | θ   | `\theta` / `\vartheta` |
+| ι   | `\iota`                    | κ   | `\kappa`               |
+| λ   | `\lambda`                  | μ   | `\mu`                  |
+| ν   | `\nu`                      | ξ   | `\xi`                  |
+| ο   | `\omicron`                 | π   | `\pi` / `\varpi`       |
+| ρ   | `\rho` / `\varrho`         | σ   | `\sigma` / `\varsigma` |
+| τ   | `\tau`                     | υ   | `\upsilon`             |
+| φ   | `\phi` / `\varphi`         | χ   | `\chi`                 |
+| ψ   | `\psi`                     | ω   | `\omega`               |
